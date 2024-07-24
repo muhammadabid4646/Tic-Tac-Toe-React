@@ -1,0 +1,19 @@
+.box{
+  width: 200px;
+  height: 180px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box p{
+  font-size: 120px;
+}
+.head{
+  text-align: center;
+}
